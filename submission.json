@@ -7,7 +7,7 @@
     "程霖垚",
     "韦佳瑜"
   ],
-  "repository_url": "https://github.com/zerunliu823-cmd/ai-camp-2026-d3--LiuZeRunU202411152",
+  "repository_url": "https://github.com/skks127672-cly/ai-camp-2026-d3--LiuZeRunU202411152",
   "run_command": "python analyze.py",
   "test_command": "python -m unittest discover -s tests -v",
   "report": "report.md",
