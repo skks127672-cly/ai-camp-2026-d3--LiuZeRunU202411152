@@ -3,6 +3,7 @@ data/processed/
 metrics.json
 forecast.png
 largest_errors.csv
+presentation/
 __pycache__/
 *.pyc
 
